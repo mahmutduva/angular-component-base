@@ -1,1 +1,1 @@
-{"version":3,"file":"car-list.component.js","sourceRoot":"","sources":["car-list.component.ts"],"names":[],"mappings":"AAAA;;GAEG"}
+{"version":3,"file":"car-list.component.js","sourceRoot":"","sources":["car-list.component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAA0B,eAAe,CAAC,CAAA;AAW1C;IAAA;IAA8B,CAAC;IAT/B;QAAC,gBAAS,CAAC;YACP,QAAQ,EAAE,UAAU;YACpB,QAAQ,EAAE,wIAIO;SACpB,CAAC;;wBAAA;IAE4B,uBAAC;AAAD,CAAC,AAA/B,IAA+B;AAAlB,wBAAgB,mBAAE,CAAA"}
